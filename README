@@ -1,0 +1,8 @@
+== README
+
+2 tarih üretir. Üretile 2 tarih de:
+
+* geçmişte bir tarih olur
+* iki tarih de aynı gün olmak durumundadır
+* özel olarak eğer o gün için bir tarih üretilmek istenirse bir parametre ile bu belirtilebilir.
+* eğer o gün için tarih üretiliyorsa üretilen tarihlerin saati kodun çalıştırıldığı saatten önce olmalıdır 
