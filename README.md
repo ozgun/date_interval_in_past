@@ -1,4 +1,4 @@
-== README
+# README
 
 2 tarih üretir.
 
