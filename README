@@ -1,8 +1,10 @@
 == README
 
-2 tarih üretir. Üretile 2 tarih de:
+2 tarih üretir.
 
-* geçmişte bir tarih olur
-* iki tarih de aynı gün olmak durumundadır
-* özel olarak eğer o gün için bir tarih üretilmek istenirse bir parametre ile bu belirtilebilir.
-* eğer o gün için tarih üretiliyorsa üretilen tarihlerin saati kodun çalıştırıldığı saatten önce olmalıdır 
+* Üretilen 2 tarih de geçmişte bir tarih olur
+* İki tarih de aynı gün olmak zorundadır
+* Özel olarak eğer o gün için bir tarih üretilmek istenirse bir parametre ile bu belirtilebilir.
+* Eğer o gün için tarih üretiliyorsa üretilen tarihlerin saati kodun çalıştırıldığı saatten önce olmalıdır 
+* Üretilen 2. tarih 1. tarihten büyük olmalıdır
+* Her seferinde farklı tarihler üretilmelidir(random)
